@@ -2,7 +2,7 @@ body, html {
     height: 100%;
 }
 body {
-    background: url('wedding/homeImage.jpeg') no-repeat center center fixed;
+    background: url('homeImage.jpeg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
